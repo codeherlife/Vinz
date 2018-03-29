@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="cursive"
-        android:text="Menu Items"
+        android:text="@string/products_title"
         android:textAlignment="center"
         android:textSize="30sp"
         android:textStyle="bold"
