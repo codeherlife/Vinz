@@ -7,9 +7,15 @@
     tools:context="com.codeherlife.vinz.MainActivity">
 
     <TextView
+        android:id="@+id/textsi"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:fontFamily="cursive"
+        android:text="Menu Items"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:typeface="monospace"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
